@@ -1,0 +1,210 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+    nav ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 24px;
+        /* font-weight: bolder; */
+    }
+
+.navbar{
+    text-align: right;
+    /* font-size: px; */
+    /* font-weight: bolder; */
+
+     
+}
+.head{
+    margin-left: 90px;
+    font-size: 25px;
+  
+}
+
+.homepage img{
+  background-size: cover;
+  opacity: 75%;
+  background-position: center;
+  margin: 0px;
+  padding: 0px;
+  width: 1277px;
+  height: 90vh;
+  margin-top: 10px;
+  
+}
+.homepage{
+    margin-top: 23px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.store{
+    margin-top: -400px;
+    margin-left: 200px;
+    color: white;
+    font-size: 60px;
+    /* font-weight: 100px; */
+   
+}
+.bask{
+    color: darkgreen;
+    gap: 11%;
+    margin-left: 300px;
+    
+}
+
+.classify{
+    /* background-color: whitesmoke; */
+    height: 140vh;
+}
+.color{
+    color: green; 
+}
+.enlarge{
+    margin-left: 90px;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.bold{
+    /* background-color: rgb(4, 7, 4); */
+    height: 35vh;
+    /* margin-left: 200px; */
+    padding-top: -600px;
+    margin-top: -80px;
+
+}
+.know{
+    font-size: 50px;
+    margin-left: 500px;
+    padding-top: 410px;
+    font-style: italic;
+    font-weight: bolder;
+    /* background-color: green; */  
+    
+}
+.enhance{
+    margin-left: 300px;
+    margin-top: 250px;
+    font-size: 50px;
+}
+.mission{
+    margin-left: 20px;
+    margin-top: -210px;
+    font-size: 18px;
+    width: 600px;
+    margin-top: 70px;
+}
+.image img{
+    margin-left: 700px;
+    margin-top: -250px;
+    width: 550px;
+}
+.image{
+    margin-top:-50px;
+    width: 90px;
+   
+}
+.basket{
+    margin-left: 19px;
+    width: 2%;
+    /* height: 3%; */
+    margin-top: -99px;
+    
+
+}
+.team{
+    font-size: 60px;
+    margin-left:300px ;
+    margin-top: -15px;
+}
+.teams img{
+    width: 590px;
+    margin-left: 20px;
+}
+.stmt{
+    margin-left: 700px;
+    margin-top: -300px;
+    font-size: 19px;
+    /* background-color: black;
+    height: 100px;
+    color: whitesmoke; */
+}
+#Contact{
+    margin-left: 464px;
+   
+   }
+   .info-subtittle{
+       margin-left: 330px;
+    
+   }
+   .footer{
+       display: flex;
+       background-color: darkgreen;
+       margin-top: 200px;
+       margin-top: -20px;
+       font-size: 20px;
+       height: 28vh;
+   }
+   .phone{
+       margin-left: 55px;
+       margin-top: 40px;
+   }
+   .Email{
+       margin-left: 70px;
+       margin-top: 40px;
+   }
+   .Connect{
+       margin-left: 70px;
+       margin-top: 40px;
+   }
+   .dis{
+    margin-left: 240px;
+    margin-top: 40px;
+   }
+   .reach{
+    margin-top: 100px;
+    font-size: 25px;
+   }
+   /* ......style end */
+   @media only screen and (max-width: 600px) {
+       #Contact {
+           margin-left: 10px;
+       }
+       .info-subtittle {
+           margin-left: 10px;
+       }
+       .footer {
+           flex-wrap: wrap;
+       }
+       .phone,
+       .Email,
+       .Connect {
+           margin-left: 10px;
+           margin-top: 10px;
+       }
+       .dis {
+           margin-left: 10px;
+       }
+   }
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
